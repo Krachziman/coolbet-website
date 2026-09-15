@@ -5,6 +5,7 @@ Interactive campaign page developed as a technical design and development task f
 ### Links
 
 **Portfolio:** https://miiko.ee/en/coolbet.html
+
 **Live prototype:** https://miiko.ee/Coolbet_promo_article/Coolbet_promo_article.html
 
 ### About
