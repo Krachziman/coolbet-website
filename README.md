@@ -1,6 +1,8 @@
-Portfolio link: https://miiko.ee/en/coolbet.html
+Portfolio link: 
+https://miiko.ee/en/coolbet.html
 
-Live prototype link: https://miiko.ee/Coolbet_promo_article/Coolbet_promo_article.html
+Live prototype link: 
+https://miiko.ee/Coolbet_promo_article/Coolbet_promo_article.html
 
 Description:
 I developed an interactive campaign page following Coolbet's visual brand identity, focusing on code reusability and a clean DOM structure.
