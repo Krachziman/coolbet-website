@@ -2,6 +2,8 @@
 
 Interactive campaign page developed as a technical design and development task for Coolbet.
 
+**This is project is 100% coded by hand. I did not use AI to for any kind of code assistance.**
+
 ### Links
 
 **Portfolio:** https://miiko.ee/en/coolbet.html
